@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  line-height: 1.6;
+  background-color: #f7f6f6;
+  color: #323030;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+h1 {
+  margin: 10px 0;
+  font-size: 28px;
+}
+
+.contact {
+  font-size: 14px;
+  color: #555;
+}
+
+h2 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+ul {
+  list-style: square;
+  margin-left: 20px;
+}
